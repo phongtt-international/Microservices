@@ -1,3 +1,7 @@
+using Catalog.API.Data;
+using Catalog.API.Data.Interfaces;
+using Catalog.API.Repositories;
+using Catalog.API.Repositories.Interfaces;
 using Catalog.API.Settings;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -31,8 +35,11 @@ namespace Catalog.API
             //Get CatalogDatabaseSetting from appsettings.js map to =>  CatalogDatabaseSettings class
             services.Configure<CatalogDatabaseSettings>(Configuration.GetSection(nameof(CatalogDatabaseSettings)));
             // sp => Service Provider, IOptions pattern
-            services.AddSingleton<ICatalogDatabaseSettings>(sp => sp.GetRequiredService<IOptions<CatalogDatabaseSettings>>().Value);
+            services.AddSingleton<ICatalogDatabaseSettings>(sp => 
+                sp.GetRequiredService<IOptions<CatalogDatabaseSettings>>().Value);
 
+            services.AddTransient<ICatalogContext, CatalogContext>();
+            services.AddTransient<IProductRepository, ProductRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
