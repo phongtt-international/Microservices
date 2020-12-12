@@ -28,3 +28,8 @@ E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
