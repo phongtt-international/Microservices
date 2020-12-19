@@ -1,0 +1,29 @@
+services:
+  catalog.api:
+    build:
+      context: E:\Microservices\Microservices\MicoservicesApp
+      dockerfile: Catalog.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: catalogapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\Dell\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Dell\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  catalogdb:
+    container_name: catalogdb
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: mongo
+    ports:
+    - target: 80
+    - target: 443
+    restart: always
+    volumes:
+    - C:\Users\Dell\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Dell\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

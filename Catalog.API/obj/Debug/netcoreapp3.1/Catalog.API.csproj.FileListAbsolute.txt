@@ -7,11 +7,15 @@ E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.pdb
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
@@ -19,6 +23,7 @@ E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfoInputs.cache
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfo.cs
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CoreCompileInputs.cache
+E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.Manifest.cache
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.xml
@@ -28,8 +33,3 @@ E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache
-E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
