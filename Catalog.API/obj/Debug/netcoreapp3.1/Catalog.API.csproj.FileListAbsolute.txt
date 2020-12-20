@@ -19,7 +19,6 @@ E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
-E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfoInputs.cache
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfo.cs
 E:\Microservices\Microservices\MicoservicesApp\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CoreCompileInputs.cache
